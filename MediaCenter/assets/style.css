@@ -100,18 +100,32 @@ nav a:hover {
 .banner3 {
   background-color: #2b4c99;
 }
+.container_hours {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+}
+.banner_hours {
+  border-bottom: solid 1px #4468b2;
+  display: flex;
+  justify-content: space-between;
+}
+.banner_hours p {
+  font-size: 13px;
+}
 .banner_title {
   font-size: 21px;
 }
 .banner_desc {
-  font-size: 12px;
+  font-size: 13px;
   margin-top: 20px;
   margin-bottom: 20px;
+  line-height: 18px;
 }
 .banner_options a {
   display: inline-block;
   border: 1px solid #ffffff;
-  padding: 5px;
+  padding: 7px;
   color: #ffffff;
   font-size: 13px;
   text-decoration: none;
@@ -148,6 +162,39 @@ nav a:hover {
 .flex {
   display: flex;
   flex-wrap: wrap;
+}
+
+.widget_body {
+  display: flex;
+  flex-wrap: wrap;
+}
+.widget_aside {
+  background-color: #0079c7;
+  width: 130px;
+  height: 130px;
+  margin: 7px;
+}
+
+.widget_aside_resume {
+  border-bottom: solid 1px #6666663f;
+}
+.widget_aside_resume p {
+  font-size: 13px;
+  line-height: 18px;
+  color: #666666;
+  margin-bottom: 25px;
+}
+.container_aside_contact {
+  display: flex;
+  flex-direction: column;
+}
+.contact_divs {
+  border-bottom: solid 1px #6666663f;
+}
+.contact_divs a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
 }
 
 article {
@@ -249,7 +296,7 @@ footer .widget_title_text {
   background-color: #39aae1;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .banner_headline {
     padding: 20px;
   }

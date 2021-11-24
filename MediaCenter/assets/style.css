@@ -245,6 +245,11 @@ footer {
 .footer_menu {
   display: flex;
   flex: 1;
+  font-size: 23px;
+  font-weight: lighter;
+}
+.footer_menu p {
+  font-size: 13px;
 }
 .fm_1,
 .fm_2,
@@ -256,6 +261,7 @@ footer {
 .fm_1 {
   background-color: #39aae1;
 }
+
 .fm_2 {
   background-color: #0079c7;
 }
@@ -271,6 +277,41 @@ footer {
 }
 .footer_areaitem {
   flex: 1;
+}
+
+.container_footer_left {
+  display: flex;
+  flex-direction: column;
+}
+.resume_footer p {
+  font-size: 13px;
+  width: 90%;
+  color: #819090;
+}
+.contact_footer_left div {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: #819090;
+  padding-right: 50px;
+}
+
+.email_footer a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.footer_text {
+  font-size: 13px;
+  color: #819090;
+}
+.footer_text span {
+  font-size: 12px;
+  color: #36a9e1;
+  padding: 10px;
+}
+.footer_text p {
+  margin-bottom: -3px;
+  padding: 10px;
 }
 footer .widget_title_text {
   color: #ffffff;

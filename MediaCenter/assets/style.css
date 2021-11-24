@@ -320,6 +320,7 @@ footer .widget_title_text {
   }
   #geral aside {
     padding: 20px;
+    align-items: center;
   }
   .footer_menu {
     flex-direction: column;

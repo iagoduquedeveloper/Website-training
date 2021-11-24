@@ -21,10 +21,11 @@
  <h1 align="center">BlackPage</h1>
     <p align="center">This portfolio is about my front-end training</p>
 
-  
-  <img align="center"  width="600" height="297" src="./Gifs/black-friday.gif" height="425" width="auto"/>
- 
+  <p align="center">
 
+  <img  width="600" height="297" src="./Gifs/black-friday.gif" height="425" width="auto"/>
+ 
+</p>
   
 
 

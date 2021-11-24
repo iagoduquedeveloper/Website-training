@@ -7,7 +7,7 @@
   <p align="center">This portfolio is about my front-end training</p>
 
 
-<img align="right" width="300" height="400" src="./Gifs/gif-do-cel.gif" height="425" />
+<img align="right" width="250" height="400" src="./Gifs/gif-do-cel.gif" height="425" />
 
 
 <img align="left" width="500" height="400" src="./Gifs/gif-do-pc.gif" height="425" width="auto"/>

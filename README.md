@@ -5,17 +5,21 @@
   <p align="center">This portfolio is about my front-end training</p>
 
 
-<img align="right" width="250" height="400" src="./Gifs/gif-do-cel.gif" height="425" />
+   <p align="center">
+
+  <img   src="./Gifs/medicenter_pc.gif" height="425" width="auto"/>
+ 
+</p>
+
+<h1 align="center">MEDICENTER MOBILE</h1>
+
+   <p align="center">
+
+  <img   src="./Gifs/medicenter_cel.gif" height="425" width="auto"/>
+ 
+</p>
 
 
-<img align="left" width="500" height="400" src="./Gifs/gif-do-pc.gif" height="425" width="auto"/>
-
-<br> <br> <br> <br> <br> <br>
-<br> <br> <br>
-<br> <br> <br>
-<br> <br> <br>
-<br> <br> <br>
-<br>
 
 
  <h1 align="center">BlackPage</h1>

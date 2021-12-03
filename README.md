@@ -7,7 +7,7 @@
 
    <p align="center">
 
-  <img   src="./Gifs/medicenter_pc.gif" height="425" width="auto"/>
+  <img   src="./Gifs/medicenter_pc.gif" height="auto" width="auto"/>
  
 </p>
 
@@ -15,7 +15,7 @@
 
    <p align="center">
 
-  <img   src="./Gifs/medicenter_cel.gif" height="425" width="auto"/>
+  <img   src="./Gifs/medicenter_cel.gif" height="auto" width="auto"/>
  
 </p>
 
@@ -24,7 +24,7 @@
     
    <p align="center">
 
-  <img  width="524" height="482" src="./Gifs/Churrascometro.gif" height="450" width="auto"/>
+  <img  width="auto" height="auto" src="./Gifs/Churrascometro.gif" />
  
 </p>
 
@@ -36,7 +36,7 @@
 
   <p align="center">
 
-  <img  width="600" height="297" src="./Gifs/black-friday.gif" height="425" width="auto"/>
+  <img  width="auto" height="auto" src="./Gifs/black-friday.gif"/>
  
 </p>
 
@@ -45,10 +45,36 @@
     
    <p align="center">
 
-  <img  width="600" height="297" src="./Gifs/login-pag.gif" height="425" width="auto"/>
+  <img  width="auto" height="auto" src="./Gifs/login-pag.gif" />
+ 
+</p>
+
+<h1 align="center">Card-Debit</h1>
+    <p align="center">Clone a Card-Itaú</p>
+    
+   <p align="center">
+
+  <img  width="auto" height="auto" src="./Gifs/cartao-debit.gif" />
  
 </p>
   
+  <h1 align="center">Cards Animates</h1>
+    <p align="center">...</p>
+    
+   <p align="center">
+
+  <img  width="auto" height="auto" src="./Gifs/Cards-animates.gif" />
+ 
+</p>
+
+<h1 align="center">404 Not Found</h1>
+    <p align="center">Clone a login page</p>
+    
+   <p align="center">
+
+  <img  width="auto" height="auto" src="./Gifs/404-Not-Found.gif" />
+ 
+</p>
 
 
 
